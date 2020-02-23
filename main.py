@@ -1,1 +1,1 @@
-pint("hello word!")
+peint("hello word!")
